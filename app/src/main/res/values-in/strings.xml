@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Pelita Apps</string>
+    <string name="welcome_back">Selamat datang</string>
+    <string name="login_account">Masuk ke akunmu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btnLoginn">M A S U K</string>
+    <string name="donthvA">Tidak punya akun? Daftar</string>
+    <string name="regis_account">Daftar akun</string>
+    <string name="checked"><![CDATA[Dengan mendaftar anda menyetujui persayaratan kami..]]></string>
+    <string name="btnRegister">D A F T A R</string>
+    <string name="username">Username</string>
+    <string name="pelita">P E L I T A</string>
+    <string name="manageyw">Kelola sampahmu</string>
+    <string name="register">Tidak punya akun ? </string>
+    <string name="tv_click">Klik disini</string>
+
+    <!--    Digunakan untuk Profil -->
+    <string name="username_profile">Aditya Rizkiawan N</string>
+    <string name="edit_profile">Ubah profil</string>
+    <string name="btnBahasa">Bahasa</string>
+    <string name="btnAbout">Tentang</string>
+    <string name="btnReview">Ulasan</string>
+    <string name="btnLogout">Keluar</string>
+    <string name="btnSimpan">S I M P A N</string>
+    <string name="payment_success">Berhasil !! Pencairan akan dilakukan dalam 1X24 Jam</string>
+    <string name="kembali">Kembali ke Halaman Utama</string>
+    <string name="SelangkahLagi">Selangkah Lagi</string>
+    <string name="btnKonfirmasi">K O N F I R M A S I</string>
+    <string name="tvBack">Engga Jadi ??</string>
+
+    <string name="back">Kembali</string>
+    <string name="user">Pengguna</string>
+    <string name="photo">Foto</string>
+    <string name="take_picture">Ambil gambar</string>
+    <string name="trash_type">Jenis sampah</string>
+    <string name="trash_weight">Berat sampah</string>
+    <string name="pick_up_loc">Lokasi jemput</string>
+    <string name="note">Catatan</string>
+    <string name="next">Selanjutnya</string>
+    <string name="maps_picker">Pemilih lokasi</string>
+    <string name="map_hint">Gerakkan penunjuk ke arah yang diinginkan</string>
+    <string name="loc_now">Lokasi saat ini</string>
+    <string name="address">Alamat : %1$s</string>
+    <string name="clich_here">Klik untuk memilih lokasi</string>
+    <string name="in_kg">(dalam kg)</string>
+    <string name="weight_limit">Berat yang diperbolehkan 2 – 10 kg</string>
+    <string name="empty_address">Titik jemput tidak boleh kosong</string>
+    <string name="result">Hasil</string>
+    <string name="back_home">Kembali ke halaman utama</string>
+    <string name="success_message">Berhasil !\nPetugas sedang menuju lokasi</string>
+    <string name="failed_message">Gagal !\nKami tidak bisa memproses permintaan anda</string>
+    <string name="no_empty">Tidak boleh kosong</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="total_point">Total poin</string>
+    <string name="count_pts">%1$spts</string>
+    <string name="lets_care_environment">Ayo jaga lingkungan</string>
+    <string name="otw_eta">Akan tiba dalam %1$s</string>
+    <string name="sold_trash">Sampah terjual</string>
+    <string name="count_kg">%1$skg</string>
+    <string name="claim_gift">Klaim hadiah</string>
+    <string name="count_gift_percent">%1$s</string>
+    <string name="article_title">Judul artikel</string>
+    <string name="article_description">" "</string>
+    <string name="article_url_src">Sumber : %1$s</string>
+    <string name="change_your_language">Ubah bahasa</string>
+    <string name="indonesia">Bahasa Indonesia</string>
+    <string name="english">Bahasa Inggris</string>
+    <string name="profile_edit">Ubah Profil</string>
+    <string name="name">Nama</string>
+    <string name="warn_take_picture">Kamu harus mengambil gambar sampahmu</string>
+    <string name="trash_already">Sudah ada sampah yang sedang dalam proses penjemputan</string>
+    <string name="driver_otw">Petugas kami sedang dalam perjalanan menjemput sampah kamu</string>
+    <string name="driver_name">Nama : %1$s</string>
+    <string name="driver_phone">Nomor telepon : %1$s</string>
+    <string name="driver_call">Hubungi</string>
+    <string name="name_is_not_allowed_to_be_empty">Nama tidak boleh kosong</string>
+    <string name="email_is_not_allowed_to_be_empty">Email tidak boleh kosong</string>
+    <string name="password_is_not_allowed_to_be_empty">Password tidak boleh kosong</string>
+    <string name="phone">Nomor telepon</string>
+    <string name="payment_method">Pembayaran poin</string>
+    <string name="points">Poin</string>
+    <string name="process">Proses</string>
+    <string name="pelitaa">pelita</string>
+    <string name="phone_is_not_allowed_to_be_empty">Nomor telepon tidak diperbolehkan kosong</string>
+    <string name="points_is_not_allowed_to_be_empty">Poin tidak diperbolehkan kosong</string>
+    <string name="confirm_your_password_to_process">Konfirmasi password kamu untuk melanjutkan</string>
+    <string name="about">Tentang</string>
+    <string name="about_pelita">PELITA - Peduli Lingkungan Kita\n\nAplikasi Cerdas Pengelolaan Sampah sebagai solusi untuk mengedukasi masyarakat tentang cara mengelola sampah menjadi sesuatu yang bermanfaat dan berkontribusi bagi perekonomian\n\nPengelolaan sampah yang kurang baik sering terjadi karena masyarakat tidak mengetahui jenis sampahnya memiliki, atau sampah menumpuk karena tidak ada tempat sampah umum atau karena jadwal petugas kebersihan untuk pengumpulan sampah tidak teratur. Inilah faktor-faktor penyebab banyaknya sampah berserakan yang dapat menyebabkan kerusakan lingkungan.\n\nAplikasi PELITA merupakan aplikasi mobile yang bertujuan untuk membantu pengguna mengelola sampah di lingkungannya. Aplikasi ini dirancang menggunakan teknologi machine learning untuk mendeteksi jenis sampah secara otomatis, sehingga memudahkan pengguna untuk memilah sampah dan membuangnya sesuai jenisnya. Aplikasi ini juga dilengkapi dengan fitur untuk memantau jadwal pengambilan sampah dan memberikan notifikasi kepada pengguna kapan sampah harus dibuang.\n\nDengan adanya aplikasi sampah ini diharapkan dapat meningkatkan kesadaran masyarakat untuk memilah sampah dan membuangnya sesuai dengan ke tipenya. Hal ini dapat membantu mengurangi jumlah sampah yang berserakan di lingkungan dan meningkatkan efisiensi proses pengumpulan sampah. Selain itu, aplikasi ini juga dapat membantu pengguna untuk mengurangi dampak negatif sampah terhadap lingkungan dan kesehatan manusia.</string>
+    <string name="review">Ulas</string>
+    <string name="review_us">Ulas kami</string>
+    <string name="submit">Kirim</string>
+    <string name="language">Bahasa</string>
+    <string name="about_pelita_title">Tentang Pelita</string>
+    <string name="sell_your_waste">Jual sampahmu</string>
+    <string name="this_trash_is">Sampah ini adalah %1$s</string>
+    <string-array name="jenis_sampah">
+        <item>Besi</item>
+        <item>Kaca</item>
+        <item>Kardus</item>
+        <item>Karet</item>
+        <item>Kertas</item>
+        <item>Sampah rumah tangga</item>
+        <item>Plastik</item>
+    </string-array>
+    <string name="re_take">Ambil ulang</string>
+    <string name="your_trash_is_processed">Sampahmu sedang diproses</string>
+    <string name="type_1_s">Jenis : %1$s</string>
+    <string name="note_1_s">Catatan : %1$s</string>
+    <string name="weight_1_s">Berat : %1$s kg</string>
+    <string name="address_1_s">Alamat : %1$s</string>
+
+</resources>
